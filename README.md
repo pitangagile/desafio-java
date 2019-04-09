@@ -80,10 +80,10 @@ Obs: O id do usuário pode ser um sequencial gerado pelo banco ou um id único.
 * Persistência com Hibernate.
 * Framework Spring.
 * Disponibilizar a API rodando em algum host (Heroku, AWS, Digital Ocean, etc).
-* Servidor deve está embutido na aplicação (Tomcat ou Jetty)
+* Servidor deve estar embutido na aplicação (Tomcat ou Jetty)
 * Utiliziar no mínimo Java 7
 
 ## Requisitos desejáveis
 * JWT como token
 * Testes unitários
-* Criptogafia não reversível (hash) na senha e no token
+* Senha deve ser criptografada
