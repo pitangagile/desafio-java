@@ -82,8 +82,8 @@ Obs: O id do usuário pode ser um sequencial gerado pelo banco ou um id único.
 * Disponibilizar a API rodando em algum host (Heroku, AWS, Digital Ocean, etc).
 * Servidor deve estar embutido na aplicação (Tomcat ou Jetty)
 * Utiliziar no mínimo Java 7
+* Testes unitários
 
 ## Requisitos desejáveis
 * JWT como token
-* Testes unitários
 * Senha deve ser criptografada
